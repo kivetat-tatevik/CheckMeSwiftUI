@@ -11,6 +11,7 @@
 		BA566CBA2AE7D16900FF4F0E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA566CB92AE7D16900FF4F0E /* ContentView.swift */; };
 		BA566CBC2AE7D17100FF4F0E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA566CBB2AE7D17100FF4F0E /* Assets.xcassets */; };
 		BA566CBF2AE7D17100FF4F0E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA566CBE2AE7D17100FF4F0E /* Preview Assets.xcassets */; };
+		BA566CE62AE84A4400FF4F0E /* UISliderRepresentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA566CE52AE84A4400FF4F0E /* UISliderRepresentation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		BA566CB92AE7D16900FF4F0E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BA566CBB2AE7D17100FF4F0E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA566CBE2AE7D17100FF4F0E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BA566CE52AE84A4400FF4F0E /* UISliderRepresentation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UISliderRepresentation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				BA566CB72AE7D16900FF4F0E /* CheckMeSwiftUIApp.swift */,
 				BA566CB92AE7D16900FF4F0E /* ContentView.swift */,
+				BA566CE52AE84A4400FF4F0E /* UISliderRepresentation.swift */,
 				BA566CBB2AE7D17100FF4F0E /* Assets.xcassets */,
 				BA566CBD2AE7D17100FF4F0E /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA566CE62AE84A4400FF4F0E /* UISliderRepresentation.swift in Sources */,
 				BA566CBA2AE7D16900FF4F0E /* ContentView.swift in Sources */,
 				BA566CB82AE7D16900FF4F0E /* CheckMeSwiftUIApp.swift in Sources */,
 			);
